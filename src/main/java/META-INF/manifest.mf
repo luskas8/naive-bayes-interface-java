@@ -1,0 +1,4 @@
+Manifest-Version: 2.3
+Sealed: true
+Main-Class: com.aula.interfaceia.MainFrame
+
